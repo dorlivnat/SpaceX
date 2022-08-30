@@ -23,4 +23,4 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 - Final Presentation (@ Coursera)
 - GitHub repository (We're here!)
 
-<img src="https://miro.medium.com/max/1400/1*aQWkjyO9eBgNjbKjI2MCbA.jpeg" alt="Allon is the GOAT">
+<img src="https://miro.medium.com/max/1400/1*aQWkjyO9eBgNjbKjI2MCbA.jpeg" width="25%" height="25%" alt="Allon is the GOAT">
