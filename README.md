@@ -20,5 +20,5 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 #### Week 4: Predictive Analysis (Classification)
 - Machine Learning Prediction
 #### Week 5: Present Your Data-Driven Insights  
-- Final Presentation
+- Final Presentation (@ Coursera)
 - GitHub repository (We're here!)
