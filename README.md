@@ -6,19 +6,19 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 
 ## Peer-graded Assignment:
 ### Contents:
-### Week 1: Introduction
+#### Week 1: Introduction
 - Course Introduction
 - Capstone Introduction and Understanding the Datasets
 - Collecting the Data (API + Web Scraping)
 - Data Wrangling
-### Week 2: Exploratory Data Analysis (EDA)
+#### Week 2: Exploratory Data Analysis (EDA)
 - Exploratory Analysis Using SQL
 - Exploratory Analysis Using Pandas and Matplotlib
-### Week 3: Interactive Visual Analytics and Dashboards
+#### Week 3: Interactive Visual Analytics and Dashboards
 - Interactive Visual Analytics with Folium
 - Interactive Dashboard with Plotly Dash
-### Week 4: Predictive Analysis (Classification)
+#### Week 4: Predictive Analysis (Classification)
 - Machine Learning Prediction
-### Week 5: Present Your Data-Driven Insights  
+#### Week 5: Present Your Data-Driven Insights  
 - Final Presentation
 - GitHub repository (We're here!)
